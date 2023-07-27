@@ -3657,7 +3657,7 @@ body.is-preload #header.alt {
 	transition-delay: 0.75s;
 	pointer-events: none;
 	/* BIG MAIN */
-	background-color: #1e2957cf;
+	background-color: #2f2951;
 	content: '';
 	display: block;
 	height: 100%;
